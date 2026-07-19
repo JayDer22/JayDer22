@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dectore/default.png" width="100%" alt="Jay Der Banner" style="display:none;" />
-  <h1 align="center" style="color:#00C2FF; font-family:'Fira Code', monospace;">📱 JAY DER 📱</h1>
-  <p align="center"><b>Flutter Developer | BCA Student | UI/UX Enthusiast</b></p>
+  <img src="https://lh3.googleusercontent.com/d/1X5Xb1pB9V64Y13y8HhB42X_M2n06e6W1" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
 </p>
 
 <p align="center">
@@ -63,5 +61,54 @@
         <a href="https://github.com/JayDer22" target="_blank">✨ Live Demo</a>
       </div>
     </td>
-    <td width="
-    
+    <td width="50%" valign="top">
+      <div style="background-color: #161B22; border: 1px solid #38BDF8; border-radius: 10px; padding: 15px; min-height: 200px;">
+        <h4>📁 Weather App (Clean Architecture)</h4>
+        <p>A minimalistic weather application delivering hyper-accurate real-time forecasting metrics utilizing complex REST API connections.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter" />
+          <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart" />
+        </p>
+        <a href="https://github.com/JayDer22" target="_blank">💻 Code</a> | 
+        <a href="https://github.com/JayDer22" target="_blank">✨ Live Demo</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background-color: #161B22; border: 1px solid #38BDF8; border-radius: 10px; padding: 15px; min-height: 200px;">
+        <h4>📁 Flutter Notes App</h4>
+        <p>A sleek, markdown-supported note-taking application designed with complete local encryption and fluid animations.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter" />
+          <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite" />
+        </p>
+        <a href="https://github.com/JayDer22" target="_blank">💻 Code</a> | 
+        <a href="https://github.com/JayDer22" target="_blank">✨ Live Demo</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background-color: #161B22; border: 1px solid #38BDF8; border-radius: 10px; padding: 15px; min-height: 200px;">
+        <h4>📁 Flutter ToDo App</h4>
+        <p>A task management app optimized for extreme performance, clean swipe ergonomics, and dynamic categorizations.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter" />
+          <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart" />
+        </p>
+        <a href="https://github.com/JayDer22" target="_blank">💻 Code</a> | 
+        <a href="https://github.com/JayDer22" target="_blank">✨ Live Demo</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🗺️ Learning Journey Roadmap
+```text
+Flutter             ██████████████████████████████  100%
+Dart                ███████████████████████████░░░   90%
+State Management    █████████████████████░░░░░░░░░   70%
+Firebase            ██████████████████░░░░░░░░░░░░   60%
+Animations          ██████████████████░░░░░░░░░░░░   60%
+REST APIs           ███████████████░░░░░░░░░░░░░░░   50%
