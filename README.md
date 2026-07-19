@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1X5Xb1pB9V64Y13y8HhB42X_M2n06e6W1" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
+  <img src="banner.png" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Jay+Der!;📱+Flutter+Developer;🎓+BCA+Student;⚡+Dart+Enthusiast;🚀+Future+Software+Engineer" alt="Typing Animation" />
