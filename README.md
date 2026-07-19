@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/canvas?type=soft&color=0d1117&customColorList=10,00C2FF,4F46E5,7C3AED&height=280&section=header&text=JAY%20DER&fontSize=65&fontColor=F8FAFC&animation=fadeIn&desc=Flutter%20Developer%20%7C%20BCA%20Student&descSize=22&descAlignY=65&descAlign=50" width="100%" alt="Jay Der Banner" />
+  <img src="https://readme-banner-solutions.vercel.app/api/?title=JAY%20DER&subtitle=Flutter%20Developer%20%7C%20BCA%20Student&theme=dark&primary=00C2FF&secondary=4F46E5" width="100%" alt="Jay Der Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Jay+Der!;📱+Flutter+Developer;🎓+BCA+Student;⚡+Dart+Enthusiast;🚀+Future+Software+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Jay+Der!;📱+Flutter+Developer;🎓+BCA+Student;⚡+Dart+Enthusiast;🚀+Future+Software+Engineer" alt="Typing Animation" />
 </p>
 
 ---
@@ -35,32 +35,15 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JayDer22&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true" alt="JayDer22 Trophies" width="100%" />
-  </a>
-</p>
-
----
-
 ### 📊 Developer Dashboard
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.com/api?username=JayDer22&show_icons=true&theme=dark&bg_color=161B22&title_color=00C2FF&icon_color=4F46E5&text_color=F8FAFC&border_color=38BDF8&border_radius=10" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=JayDer22&layout=compact&theme=dark&bg_color=161B22&title_color=00C2FF&icon_color=7C3AED&text_color=F8FAFC&border_color=38BDF8&border_radius=10" height="195" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayDer22&show_icons=true&theme=dark&bg_color=161B22&title_color=00C2FF&icon_color=4F46E5&text_color=F8FAFC&border_color=38BDF8&border_radius=10" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayDer22&layout=compact&theme=dark&bg_color=161B22&title_color=00C2FF&icon_color=7C3AED&text_color=F8FAFC&border_color=38BDF8&border_radius=10" height="195" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/aaron-bond/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayDer22&theme=dark&background=161B22&title=00C2FF&ring=4F46E5&fire=7C3AED&text=F8FAFC&stroke=38BDF8&border_radius=10" width="49%" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayDer22&bg_color=161B22&color=00C2FF&line=4F46E5&point=7C3AED&area=true&hide_border=false&border_color=38BDF8&border_radius=10" width="49%" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayDer22&theme=dark&background=161B22&title=00C2FF&ring=4F46E5&fire=7C3AED&text=F8FAFC&stroke=38BDF8&border_radius=10" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayDer22&bg_color=161B22&color=00C2FF&line=4F46E5&point=7C3AED&area=true&hide_border=false&border_color=38BDF8&border_radius=10" width="49%" alt="Activity Graph" />
 </p>
 
 ---
@@ -76,7 +59,6 @@
         <p>
           <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter" />
           <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart" />
-          <img src="https://img.shields.io/badge/HiveDB-%234F46E5.svg?style=flat" />
         </p>
         <a href="https://github.com/JayDer22" target="_blank">💻 Code</a> | 
         <a href="https://github.com/JayDer22" target="_blank">✨ Live Demo</a>
@@ -88,8 +70,7 @@
         <p>A minimalistic weather application delivering hyper-accurate real-time forecasting metrics utilizing complex REST API connections.</p>
         <p>
           <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter" />
-          <img src="https://img.shields.io/badge/BLoC-%237C3AED.svg?style=flat" />
-          <img src="https://img.shields.io/badge/OpenWeatherAPI-%2338BDF8.svg?style=flat" />
+          <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart" />
         </p>
         <a href="https://github.com/JayDer22" target="_blank">💻 Code</a> | 
         <a href="https://github.com/JayDer22" target="_blank">✨ Live Demo</a>
@@ -104,7 +85,6 @@
         <p>
           <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter" />
           <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite" />
-          <img src="https://img.shields.io/badge/Provider-%234F46E5.svg?style=flat" />
         </p>
         <a href="https://github.com/JayDer22" target="_blank">💻 Code</a> | 
         <a href="https://github.com/JayDer22" target="_blank">✨ Live Demo</a>
@@ -135,4 +115,3 @@ State Management    ████████████████████
 Firebase            ██████████████████░░░░░░░░░░░░   60%
 Animations          ██████████████████░░░░░░░░░░░░   60%
 REST APIs           ███████████████░░░░░░░░░░░░░░░   50%
-
