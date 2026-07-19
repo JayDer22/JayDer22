@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.postimg.cc/85z1w1d8/jayder-banner.png" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
+  <img src="https://github.com/user-attachments/assets/759db054-946e-47f6-be11-8260a927e57c" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
 </p>
-
 
 
 <p align="center">
