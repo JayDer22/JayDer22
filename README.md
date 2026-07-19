@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
+  <img src="https://i.postimg.cc/85z1w1d8/jayder-banner.png" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
 </p>
+
 
 
 <p align="center">
