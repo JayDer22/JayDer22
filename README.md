@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/1000159443%5B1%5D.jpg" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
+  <img src="images/1000159443%5B1%5D.jpg" width="75%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
 </p>
 
 
