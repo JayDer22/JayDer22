@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/759db054-946e-47f6-be11-8260a927e57c" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
+  <img src="images/1000159443%5B1%5D.jpg" width="100%" alt="JAY DER - Cinematic IT Field Banner" style="border-radius: 12px; border: 1px solid #38BDF8;" />
 </p>
 
 
